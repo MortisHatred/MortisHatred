@@ -40,4 +40,4 @@ if resposta== 'não':
     print('adeus')
     
     
-    
+Intel().run
