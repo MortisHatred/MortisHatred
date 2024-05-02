@@ -1,0 +1,40 @@
+print("bem vindo criador")
+
+print("oque quer ver?")
+
+print("(a)conversação")
+print("(b)tarefas")
+print("(c)jogos")
+
+print("(d) contas")
+
+resposta = input('escolha_uma')
+
+if resposta== 'd':
+    print("(a)usuário git",
+    "(b)usuário linux")
+    
+elif resposta== 'a':
+    print("em breve")
+
+elif resposta== 'b':
+    print('pergunta pra alexa')
+
+elif resposta== 'c':
+    print('eu tenho cara de playstore?')
+
+senha = input("senha?")
+
+if senha== 'o pássaro de Hermes é meu nome devorando minhas asas pra me libertar':
+    print('Momo')
+    
+else:
+    print('errado!')
+    
+pergunta = input('mais alguma coisa?')
+
+if resposta== 'não':
+    print('adeus')
+    
+    
+Intel().run
